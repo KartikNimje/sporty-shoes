@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>PRAJVAL BHALE</title>
+<title>Kartik</title>
 </head>
 <body>
-<h1>Product Inserted Sucessfully</h1>
+<h1>Product Inserted Successfully</h1>
 </body>
 </html>
